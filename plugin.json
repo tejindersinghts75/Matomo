@@ -1,0 +1,24 @@
+{
+    "name": "Myfirstplugin",
+    "description": "A simple plugin for Matomo",
+    "version": "0.1.0",
+    "authors": [
+        {
+            "name": "Tejinder",
+            "email": "your.email@example.com",
+            "homepage": "http://yourpluginhomepage.com"
+        }
+    ],
+    "license": "GPL v3+",
+    "homepage": "http://yourpluginhomepage.com",
+    "require": {
+        "piwik": "5.0.0"
+    },
+    "support": {
+        "email": "your.email@example.com",
+        "issues": "https://github.com/yourusername/yourplugin/issues",
+        "forum": "http://forum.matomo.org",
+        "wiki": "https://github.com/yourusername/yourplugin/wiki",
+        "irc": "#matomo-dev"
+    }
+}
